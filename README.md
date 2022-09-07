@@ -13,6 +13,7 @@ We have been tasked with analyzing Amazon reviews by members of the Amazon Vine 
 ![](/resources/pic2.png)
 
  - % of 5-star Vine reviews vs. 5-star non-Vine reviews
+
 ![](/resources/pic3.png)
 ![](/resources/pic4.png)
 
